@@ -191,6 +191,12 @@ git reset --hard HEAD~1: desfazer o último commit e remover todas as alteraçõ
 git revert <commit>: Cria um novo commit que desfaz as mudanças do commit especificado.
 ```
 
+## 🚀 Materiais recomendados
+
+O link abaixo da atlassian é uma boa fonte com explicação sobre git, explicação passo a passo e com exemplos simples.
+
+- **[Primeiros passos](https://www.atlassian.com/git/tutorials/setting-up-a-repository)**.
+
 ## 🚀 Fontes ultilizadas
 
 - **[Guia Completo para Transformar Seus Commits em Histórias: O Poder do Commit Semântico no GitHub](https://medium.com/@aluiza.primo/guia-completo-para-transformar-seus-commits-em-hist%C3%B3rias-o-poder-do-commit-sem%C3%A2ntico-no-github-aa074992cc3b)**.
